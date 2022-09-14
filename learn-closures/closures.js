@@ -74,7 +74,7 @@ function fetchFunction(url) {
     // `then` clause long after `fetchFunction()` is executed.
 }
 
-fetchFunction("some-module.js");
+fetchFunction("../learn-modules/some-module.mjs");
 
 /**
  * SUMMARY:
